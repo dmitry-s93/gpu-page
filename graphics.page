@@ -3,7 +3,7 @@ chartFace=org.kde.ksysguard.piechart
 title=Video Memory Usage
 
 [Face-94549915155056][SensorColors]
-gpu/gpu0/usedVram=180,61,233
+gpu/gpu0/usedVram=61,174,233
 
 [Face-94549915155056][Sensors]
 highPrioritySensorIds=["gpu/gpu0/usedVram"]
@@ -17,7 +17,7 @@ chartFace=org.kde.ksysguard.piechart
 title=GPU Temperature
 
 [Face-94549958436304][SensorColors]
-gpu/gpu0/temperature=174,61,233
+gpu/gpu0/temperature=61,174,233
 
 [Face-94549958436304][Sensors]
 highPrioritySensorIds=["gpu/gpu0/temperature"]
@@ -31,7 +31,7 @@ chartFace=org.kde.ksysguard.linechart
 showTitle=false
 
 [Face-94549965033408][SensorColors]
-gpu/gpu0/usage=133,233,61
+gpu/gpu0/usage=61,174,233
 
 [Face-94549965033408][Sensors]
 highPrioritySensorIds=["gpu/gpu0/usage"]
@@ -52,8 +52,8 @@ chartFace=org.kde.ksysguard.linechart
 showTitle=false
 
 [Face-94549998694368][SensorColors]
-gpu/gpu0/coreFrequency=233,171,61
-gpu/gpu0/memoryFrequency=173,233,61
+gpu/gpu0/coreFrequency=61,174,233
+gpu/gpu0/memoryFrequency=206,61,233
 
 [Face-94549998694368][Sensors]
 highPrioritySensorIds=["gpu/gpu0/coreFrequency","gpu/gpu0/memoryFrequency"]
@@ -133,4 +133,3 @@ showBackground=true
 face=Face-94549998694368
 isSeparator=false
 name=section-0
-
