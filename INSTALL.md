@@ -6,7 +6,7 @@ Installing it through plasma is pretty simple.
 
 - go to the System Monitor
 - Click on the menu (3 lines)
-- Get New Page
+- Get New Pages
 - Search for `Graphics Page` and click install
 
 the page should be there after restarting the application.
