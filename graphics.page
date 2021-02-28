@@ -43,11 +43,11 @@ showLegend=false
 
 [Face-94549969077840][Appearance]
 chartFace=org.kde.ksysguard.textonly
-Title=Information
-Title[pt_BR]=Informações
+Title=Overview
+Title[pt_BR]=Visão Geral
 
 [Face-94549969077840][Sensors]
-lowPrioritySensorIds=["gpu/gpu0/name","gpu/gpu0/temperature","gpu/gpu0/totalVram"]
+lowPrioritySensorIds=["gpu/gpu0/name","gpu/gpu0/usage","gpu/gpu0/coreFrequency","gpu/gpu0/temperature","gpu/gpu0/totalVram"]
 totalSensors=[]
 
 [Face-94549998694368][Appearance]
