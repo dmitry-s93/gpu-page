@@ -47,7 +47,7 @@ Title=Overview
 Title[pt_BR]=Visão Geral
 
 [Face-94549969077840][Sensors]
-lowPrioritySensorIds=["gpu/gpu0/name","gpu/gpu0/usage","gpu/gpu0/coreFrequency","gpu/gpu0/temperature","gpu/gpu0/totalVram"]
+lowPrioritySensorIds=["gpu/gpu0/name","gpu/gpu0/usage","gpu/gpu0/coreFrequency","gpu/gpu0/usedVram","gpu/gpu0/temperature"]
 totalSensors=[]
 
 [Face-94549998694368][Appearance]
