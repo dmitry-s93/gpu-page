@@ -5,7 +5,7 @@
 Installing it through Plasma System Monitor is pretty simple.
 
 - go to the System Monitor
-- Click on the [menu](.github/menu.png)
+- Click on the [menu](https://raw.githubusercontent.com/FHEK789/gpu-page/master/.github/menu.png)
 - Get New Pages
 - Search for `Graphics Page` and click install
 
