@@ -5,7 +5,7 @@
 Installing it through Plasma System Monitor is pretty simple.
 
 - go to the System Monitor
-- Click on the menu (3 lines)
+- Click on the [menu](.github/menu.png)
 - Get New Pages
 - Search for `Graphics Page` and click install
 
