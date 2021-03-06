@@ -57,7 +57,7 @@ showTitle=false
 
 [Face-94549998694368][SensorColors]
 gpu/gpu0/coreFrequency=61,174,233
-gpu/gpu0/memoryFrequency=206,61,233
+gpu/gpu0/memoryFrequency=233,120,61
 
 [Face-94549998694368][Sensors]
 highPrioritySensorIds=["gpu/gpu0/coreFrequency","gpu/gpu0/memoryFrequency"]
