@@ -1,6 +1,7 @@
 [Face-94549915155056][Appearance]
 chartFace=org.kde.ksysguard.piechart
 Title=Video Memory Usage
+Title[nl]=Videogeheugengebruik
 Title[pt_BR]=Uso da Memória de Video
 
 [Face-94549915155056][SensorColors]
@@ -16,6 +17,7 @@ showLegend=false
 [Face-94549958436304][Appearance]
 chartFace=org.kde.ksysguard.piechart
 Title=GPU Temperature
+Title[nl]=GPU-temperatuur
 Title[pt_BR]=Temperatura da GPU
 
 [Face-94549958436304][SensorColors]
@@ -45,6 +47,7 @@ showLegend=false
 [Face-94549969077840][Appearance]
 chartFace=org.kde.ksysguard.textonly
 Title=Overview
+Title[nl]=Overzicht
 Title[pt_BR]=Visão Geral
 
 [Face-94549969077840][Sensors]
@@ -67,6 +70,7 @@ lineChartFillOpacity=100
 
 [page]
 Title=Graphics
+Title[nl]=Grafisch
 Title[pt_BR]=Gráficos
 actionsFace=
 icon=monitor
@@ -106,6 +110,7 @@ name=section-0
 
 [page][row-1]
 Title=GPU Usage
+Title[nl]=GPU-gebruik
 Title[pt_BR]=Uso da GPU
 isTitle=true
 name=row-1
@@ -126,6 +131,7 @@ name=section-0
 
 [page][row-3]
 Title=GPU Frequencies
+Title[nl]=GPU-frequenties
 Title[pt_BR]=Frequências da GPU
 isTitle=true
 name=row-3
