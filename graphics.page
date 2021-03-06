@@ -39,6 +39,7 @@ gpu/gpu0/usage=61,174,233
 highPrioritySensorIds=["gpu/gpu0/usage"]
 
 [Face-94549965033408][org.kde.ksysguard.linechart][General]
+lineChartFillOpacity=100
 showLegend=false
 
 [Face-94549969077840][Appearance]
@@ -60,6 +61,9 @@ gpu/gpu0/memoryFrequency=206,61,233
 
 [Face-94549998694368][Sensors]
 highPrioritySensorIds=["gpu/gpu0/coreFrequency","gpu/gpu0/memoryFrequency"]
+
+[Face-94549998694368][org.kde.ksysguard.linechart][General]
+lineChartFillOpacity=100
 
 [page]
 Title=Graphics
